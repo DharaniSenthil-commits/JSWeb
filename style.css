@@ -13,13 +13,12 @@ body {
     font-family: Georgia;
 }
 
+i{
+    cursor: pointer;
+}
 /**
 * ! Styling Navbar
 **/
-img
-{
-    justify-content: center;
-}
 .navbar {
     display: flex;
     flex-direction: row;
@@ -81,8 +80,20 @@ img
     
     border: 2px solid black;
     border-radius: 4px;
+   
 
 }
+
+img
+{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    position: relative;
+    padding: 10px;
+    padding-right: 3px;
+}
+
 
 .details
 {
