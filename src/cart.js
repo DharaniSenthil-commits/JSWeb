@@ -23,7 +23,7 @@ let generateCartItem = () => {
         let {name,image,price}=search;      
         return`
        <div class="cart-items">
-       <img width="100" height="78"  src="${image}" alt ="" />
+       <img width="100"   src="${image}" alt ="" />
        <div class="cart-details">
             <div class="title-price-x">
                 <h5 class="title-price">

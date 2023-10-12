@@ -15,14 +15,14 @@ let shopitem=[
     },
     {
         id:"Mmunchuriyan",
-        name:"Mushroom Munchuriyan",
+        name:"M. Munchuriyan",
         description:"Fresh Mushroom , sliced  and deep fired , make semi-liquid gravy",
         price: 60,
         image :"images/MushroomMunchuriyan.jpeg"
     },
     {
         id:"Mchettinad",
-        name:"Mushroom ChettiNad",
+        name:"M. ChettiNad",
         description:"Fresh Mushroom , sliced and addd favoured , make a gravy",
         price: 80,
         image :"images/MushroomChettinad.jpg"
@@ -32,6 +32,6 @@ let shopitem=[
         name:"Mushroom Soup",
         description:"Fresh Mushroom , made liquid starter and break time drink",
         price: 20,
-        image :"images/MushroomSoup.jpg"
+        image :"images/MushroomSoup.webp"
     }
 ];
